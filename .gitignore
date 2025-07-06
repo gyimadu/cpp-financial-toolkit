@@ -1,0 +1,54 @@
+# C++ Build Artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Executables (keep the source, ignore the compiled programs)
+currency_converter
+currency_converter.exe
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Backup Files
+*.bak
+*.backup
+
+# CMake Build Directories
+build/
+cmake-build-*/
+
+# Package Manager Files
+node_modules/
+vendor/
+
+# Environment Files
+.env
+.env.local
+
+# API Keys (if you add them later)
+config.json
+secrets.json 
