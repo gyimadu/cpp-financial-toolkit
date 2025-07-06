@@ -77,5 +77,3 @@ This is a personal learning repository of projects, but suggestions and improvem
 - building practical applications
 
 ---
-
-*Built with ❤️ and lots of coffee ☕*
