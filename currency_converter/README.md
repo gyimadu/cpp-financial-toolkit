@@ -110,7 +110,7 @@ g++ -std=c++17 -I"C:\path\to\curl\include" -I"C:\path\to\json\include" -L"C:\pat
 
 ## Testing
 
-### Manual Ttesting
+### Manual Testing
 ```bash
 # Test basic functionality
 ./currency_converter
